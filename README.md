@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venemac
 - 👀 I’m interested in Python, C# and Powershell
-- 🌱 I’m currently learning Git VCS
+- 🌱 I’m currently playing with a simple weather API
 - 💞️ I’m looking to collaborate on nothing special right now
 - 📫 ffsoft@mail.com
 <!---
